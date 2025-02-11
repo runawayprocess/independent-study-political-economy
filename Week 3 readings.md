@@ -1,0 +1,5 @@
+1. Acemoglu, Daron. 2003. “Why Not a Political Coase Theorem? Social Conflict, Commitment, and Politics.” *Journal of Comparative Economics* 31 (4): 620–52. [PDF](https://economics.mit.edu/sites/default/files/publications/why-not-political-coase-theorem.pdf)
+2. De Janvry, A., and Elisabeth Sadoulet. 1989. “A Study in Resistance to Institutional Change: The Lost Game of Latin American Land Reform.” *World Development* 17:1397–1407.
+3. Conning, Jonathan, and James A. Robinson. 2007. “Property Rights and the Political Organization of Agriculture.” *Journal of Development Economics* 82 (2): 416–47. [PDF](https://bpb-us-w2.wpmucdn.com/voices.uchicago.edu/dist/f/1135/files/2018/06/jr_propertyrights-25nmlfr.pdf)
+4. Baland, Jean-Marie, and James A. Robinson. 2008. “Land and Power: Theory and Evidence from Chile.” *American Economic Review* 98 (5): 1737–65. [PDF](https://pubs.aeaweb.org/doi/pdfplus/10.1257/aer.98.5.1737)
+5. Jia, Ruixue. "The Legacies of Forced Freedom: China's Treaty Ports." *Review of Economics and Statistics* 96, no. 4 (2014): 596–608. [PDF](https://direct.mit.edu/rest/article-pdf/96/4/596/1917682/rest_a_00458.pdf)
