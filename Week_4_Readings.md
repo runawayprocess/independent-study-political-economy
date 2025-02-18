@@ -2,7 +2,7 @@
 1. **Dittmar, Jeremiah, and Seabold, Skipper.**  
    *"Media, Markets, and Radical Ideas: Evidence from the Protestant Reformation."*  
    Centre for Economic Performance Discussion Paper No. 1367 (2015).  
-   [PDF Link](https://cep.lse.ac.uk/pubs/download/dp1367.pdf)
+   [PDF Link](https://cep.lse.ac.uk/pubs/download/dp1367.pdf](https://www.jeremiahdittmar.info/research)
 
 2. **Moser, Petra.**  
    *"Patents and Innovation in Economic History."*  
