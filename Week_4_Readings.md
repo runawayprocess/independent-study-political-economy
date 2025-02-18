@@ -2,12 +2,12 @@
 1. **Dittmar, Jeremiah, and Seabold, Skipper.**  
    *"Media, Markets, and Radical Ideas: Evidence from the Protestant Reformation."*  
    Centre for Economic Performance Discussion Paper No. 1367 (2015).  
-   [PDF Link](https://cep.lse.ac.uk/pubs/download/dp1367.pdf?utm_source=chatgpt.com)
+   [PDF Link](https://cep.lse.ac.uk/pubs/download/dp1367.pdf)
 
 2. **Moser, Petra.**  
    *"Patents and Innovation in Economic History."*  
    Annual Review of Economics, Volume 8 (2016): 241-258.  
-   [PDF Link](https://www.nber.org/system/files/working_papers/w21964/w21964.pdf?utm_source=chatgpt.com)
+   [PDF Link]([https://www.nber.org/system/files/working_papers/w21964/w21964.pdf?utm_source=chatgpt.com](https://www.nber.org/system/files/working_papers/w21964/w21964.pdf))
 
 3. **Squicciarini, Mara P., and Voigtländer, Nico.**  
    *"Human Capital and Industrialization: Evidence from the Age of Enlightenment."*  
