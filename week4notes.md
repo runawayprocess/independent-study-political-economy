@@ -39,7 +39,7 @@ The authors develop a method for estimating the social returns to innovation, ac
 - How can heterogeneity in spillovers refine policy decisions?
 ---
 
-#Aghion, Dewatripont, and Stein
+# Aghion, Dewatripont, and Stein
 
 ## Summary:
 The paper develops a model to compare the advantages or disadvantages of private sector and academic research. The authors emphasize creative control vs. focus as tradeoffs rather than intellectual property concerns. Academis is a precommitment mechanism, reducing efficiency but reducing wage costs. Stronger IP protections can limit innovation, especially for early stage research. 
