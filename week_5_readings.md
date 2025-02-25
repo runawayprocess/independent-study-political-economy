@@ -9,7 +9,7 @@
    Journal of political economy, Volume 97.5 (1989): 1003-1026.  
    [PDF Link](https://www.journals.uchicago.edu/doi/epdf/10.1086/261641)
    
-3. **Lane, Nathan**  
-   *"Manufacturing Revolutions: Industrial Policy and Industrialization in South Korea"*  
-   ZBW - Leibniz Information Centre for Economics (2022). 
-   [PDF Link](https://www.dropbox.com/scl/fi/gvrvycsbqu34fr8jj97or/ManufacturingRevolutions_Lane_Live.pdf?rlkey=xd7ge1py5p3tw9956e5ebago4&e=1&dl=0)
+3. **Reka, Juhasz, Lane, Nathan**  
+   *"The Political Economy of Industrial Policy."*  
+   Journal of economic perspectives, Volume 38 4 (2024): 27-54. 
+   [PDF Link](https://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.38.4.27)
